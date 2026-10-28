@@ -1,0 +1,14 @@
+{
+  "football": {
+    "precision_at_library_max_F1": 0.7269,
+    "recall_at_library_max_F1": 0.7586,
+    "AP50": 0.783,
+    "mAP50-95": 0.3982
+  },
+  "player": {
+    "precision_at_library_max_F1": 0.934,
+    "recall_at_library_max_F1": 0.9322,
+    "AP50": 0.9582,
+    "mAP50-95": 0.6819
+  }
+}

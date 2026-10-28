@@ -1,0 +1,70 @@
+{
+  "eval_threshold": 0.25,
+  "matching_iou": 0.5,
+  "nms_iou": 0.6,
+  "prediction_conf_floor": 0.001,
+  "n_test_images": 520,
+  "n_validation_images": 972,
+  "results": {
+    "finetuned": {
+      "football": {
+        "TP": 110,
+        "FP": 32,
+        "FN": 35,
+        "precision": 0.7746,
+        "recall": 0.7586,
+        "AP50": 0.8002,
+        "mAP50-95": 0.4101
+      },
+      "player": {
+        "TP": 2566,
+        "FP": 149,
+        "FN": 192,
+        "precision": 0.9451,
+        "recall": 0.9304,
+        "AP50": 0.9542,
+        "mAP50-95": 0.6863
+      }
+    },
+    "zero_shot_coco": {
+      "football": {
+        "TP": 1,
+        "FP": 0,
+        "FN": 144,
+        "precision": 1.0,
+        "recall": 0.0069,
+        "AP50": 0.0173,
+        "mAP50-95": 0.0064
+      },
+      "player": {
+        "TP": 132,
+        "FP": 54,
+        "FN": 2626,
+        "precision": 0.7097,
+        "recall": 0.0479,
+        "AP50": 0.1841,
+        "mAP50-95": 0.0822
+      }
+    },
+    "predict_nothing": {
+      "football": {
+        "TP": 0,
+        "FP": 0,
+        "FN": 145,
+        "precision": null,
+        "recall": 0.0,
+        "AP50": 0.0,
+        "mAP50-95": 0.0
+      },
+      "player": {
+        "TP": 0,
+        "FP": 0,
+        "FN": 2758,
+        "precision": null,
+        "recall": 0.0,
+        "AP50": 0.0,
+        "mAP50-95": 0.0
+      }
+    }
+  }
+}

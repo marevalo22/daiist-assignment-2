@@ -1,0 +1,10 @@
+{
+  "workspace": "augmented-startups",
+  "project": "football-player-detection-kucab",
+  "version": 8,
+  "classes": [
+    "football",
+    "player"
+  ],
+  "fingerprint": "1ac4a89c81546b8edf96624ea79658d519b054fc116af03e2d22e69fd4abc5e0"
+}

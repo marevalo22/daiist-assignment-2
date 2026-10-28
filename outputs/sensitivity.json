@@ -1,0 +1,122 @@
+[
+  {
+    "FN_penalty_eur": 10.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.05,
+    "validation_model_t": 0.32,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 2311.162551440329
+  },
+  {
+    "FN_penalty_eur": 10.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.1,
+    "validation_model_t": 0.32,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 2358.9506172839506
+  },
+  {
+    "FN_penalty_eur": 10.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.2,
+    "validation_model_t": 0.32,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 2454.5267489711937
+  },
+  {
+    "FN_penalty_eur": 20.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.05,
+    "validation_model_t": 0.25,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 4574.5370370370365
+  },
+  {
+    "FN_penalty_eur": 20.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.1,
+    "validation_model_t": 0.25,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 4622.325102880658
+  },
+  {
+    "FN_penalty_eur": 20.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.2,
+    "validation_model_t": 0.25,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 4717.901234567901
+  },
+  {
+    "FN_penalty_eur": 40.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.05,
+    "validation_model_t": 0.17,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 9101.286008230452
+  },
+  {
+    "FN_penalty_eur": 40.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.1,
+    "validation_model_t": 0.17,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 9149.074074074073
+  },
+  {
+    "FN_penalty_eur": 40.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.2,
+    "validation_model_t": 0.17,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 9244.650205761316
+  },
+  {
+    "FN_penalty_eur": 80.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.05,
+    "validation_model_t": 0.07,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 18154.783950617286
+  },
+  {
+    "FN_penalty_eur": 80.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.1,
+    "validation_model_t": 0.07,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 18202.572016460905
+  },
+  {
+    "FN_penalty_eur": 80.0,
+    "FP_penalty_eur": 10.0,
+    "review_eur_per_frame": 0.2,
+    "validation_model_t": 0.07,
+    "validation_low": 0.05,
+    "validation_high": 0.9,
+    "validation_review_share": 0.9557613168724279,
+    "validation_scenario_eur_per_1000": 18298.148148148146
+  }
+]

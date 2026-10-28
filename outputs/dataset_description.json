@@ -1,0 +1,65 @@
+{
+  "train": {
+    "images": 10308,
+    "empty_images": 623,
+    "instances": {
+      "football": 2325,
+      "player": 46485
+    },
+    "instances_per_image": {
+      "football": 0.23,
+      "player": 4.51
+    },
+    "median_rel_area_%": {
+      "football": 0.045,
+      "player": 0.526
+    },
+    "median_rel_side_%": {
+      "football": 2.13,
+      "player": 7.26
+    }
+  },
+  "valid": {
+    "images": 972,
+    "empty_images": 30,
+    "instances": {
+      "football": 275,
+      "player": 5132
+    },
+    "instances_per_image": {
+      "football": 0.28,
+      "player": 5.28
+    },
+    "median_rel_area_%": {
+      "football": 0.035,
+      "player": 0.365
+    },
+    "median_rel_side_%": {
+      "football": 1.88,
+      "player": 6.04
+    }
+  },
+  "test": {
+    "images": 520,
+    "empty_images": 23,
+    "instances": {
+      "football": 145,
+      "player": 2758
+    },
+    "instances_per_image": {
+      "football": 0.28,
+      "player": 5.3
+    },
+    "median_rel_area_%": {
+      "football": 0.034,
+      "player": 0.357
+    },
+    "median_rel_side_%": {
+      "football": 1.85,
+      "player": 5.98
+    }
+  },
+  "image_sizes_sample": {
+    "1280x1280": 200
+  }
+}

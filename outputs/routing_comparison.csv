@@ -1,0 +1,5 @@
+strategy,scenario_eur_per_1000,review_share,scenario_eur_per_day,reviews_per_day,review_hours_per_day,reviewer_FTE,people_if_work_is_pooled
+Predict-nothing proxy,212153.846,0.0,76375.385,0.0,0.0,0.0,0
+Perfect person checks every frame (idealised),100.0,1.0,36.0,360.0,1.5,0.25,1
+Model alone at validation t*=0.17,17346.154,0.0,6244.615,0.0,0.0,0.0,0
+"Model + validation review band [0.05, 0.90)",10173.846,0.9692307692307692,3662.585,348.92,1.454,0.242,1

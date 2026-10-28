@@ -1,0 +1,7 @@
+model,class,TP,FP,FN,precision,recall,AP50,mAP50-95
+finetuned,football,110,32,35,0.7746,0.7586,0.8002,0.4101
+finetuned,player,2566,149,192,0.9451,0.9304,0.9542,0.6863
+zero_shot_coco,football,1,0,144,1.0,0.0069,0.0173,0.0064
+zero_shot_coco,player,132,54,2626,0.7097,0.0479,0.1841,0.0822
+predict_nothing,football,0,0,145,,0.0,0.0,0.0
+predict_nothing,player,0,0,2758,,0.0,0.0,0.0

@@ -14,3 +14,13 @@ runs/
 
 # Never commit your API key
 .env
+
+# Only the selected model is committed. last.pt is identical to best.pt in the
+# submitted run; yolo11s.pt / yolo26n.pt are base and AMP-check weights that
+# Ultralytics downloads itself.
+*.pt
+!weights/best.pt
+checkpoint_backups/
+
+# Colab convenience bundle of weights/ + outputs/ (both are committed directly)
+assignment2_results.zip
